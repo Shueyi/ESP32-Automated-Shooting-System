@@ -9,7 +9,7 @@ Software and Hardware Design & Development
 
 1. Mechanical Design
 
-The mechanical components of the system, including the metal frame and servo placements, were meticulously designed using SOLIDWORKS to ensure precision and durability. The design features a servo-driven pitch and yaw system that allows for accurate targeting adjustments, enabling the camera to follow the detected movement of the monkey. Additionally, gear systems were incorporated to control both rotational and vertical movements, ensuring smooth and precise motion. To handle the high-torque requirements of the system, 3D-printed and laser-cut gears were used, which offer strength and durability to withstand outdoor conditions and provide consistent operation.
+The mechanical components of the system, including the metal frame and servo placements, were meticulously designed using SOLIDWORKS to ensure precision and durability. The design features a servo-driven pitch and yaw system that allows for accurate targeting adjustments. Additionally, gear systems were incorporated to control both rotational and vertical movements, ensuring smooth and precise motion. To handle the high-torque requirements of the system, 3D-printed and laser-cut gears were used, which offer strength and durability to withstand outdoor conditions and provide consistent operation.
 
 2. Electronic System
 
